@@ -2,4 +2,6 @@
 
 This is a simple readme file
 
-add more text
+## Heading 2
+
+Just some updates, on a branch
